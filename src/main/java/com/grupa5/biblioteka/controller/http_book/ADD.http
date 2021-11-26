@@ -1,0 +1,6 @@
+POST http://localhost:8080/api/users/10/add_book
+Content-Type: application/json
+
+{
+    "id" : 9
+}
